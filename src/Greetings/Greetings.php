@@ -3,7 +3,7 @@
 namespace PHPBoilerplate\Greetings;
  
 class Greetings {
-    public static function sayHelloWorld() {
+    public static function sayHelloWorld() : String {
         return 'Hello World';
     }
 }
