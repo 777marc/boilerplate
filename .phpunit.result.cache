@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"test\\GreetingsTest::displays_hello_world_message":0.007}}
+{"version":1,"defects":[],"times":{"test\\GreetingsTest::displays_hello_world_message":0.002}}
